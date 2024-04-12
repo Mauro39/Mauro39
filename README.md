@@ -1,4 +1,4 @@
-HI there ! I'm Mauro Furtado 
+Hi there! I'm Mauro Furtado 
 
 <!--
 - 🔭 Hoje trabalho com Backend.
