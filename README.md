@@ -1,18 +1,9 @@
 Hi there! I'm Mauro Furtado 
-
 <!--
-- 🔭 Hoje trabalho com Backend.
-- 🌱 Estudando C#.
-**Mauro39/Mauro39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
+- 🎓Education.
+    
+- 💡Skills
 
-Here are some ideas to get you started:
+- 💡 Contact me: on 
 
-
-- 🌱 Estudando C# ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Contact me: on 
-- 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: ...
--->
